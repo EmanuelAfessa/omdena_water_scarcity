@@ -1,1 +1,1 @@
-# omdena_water_scarcity
+# Water Scarcity Backend MVP
