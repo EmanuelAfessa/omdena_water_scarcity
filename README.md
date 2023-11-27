@@ -1,4 +1,4 @@
-# Open source water management and forecasting
+# Open Source Water Management and Forecasting
 
 ## Central Database 
 One central database (see data folders in this repo)
