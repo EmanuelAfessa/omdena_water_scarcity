@@ -4,7 +4,7 @@
 One central database (see data folders in this repo)
 ![db](assets/dwschema.png) 
 
-## Exploratory data analysis 
+## Exploratory Data Analysis 
 
 Plotly graphs with divers types at :[plotly graphing library](https://plotly.com/python/) 
 
