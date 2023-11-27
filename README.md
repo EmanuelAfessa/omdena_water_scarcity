@@ -7,5 +7,5 @@ One central database (see data folders in this repo)
 
 Plotly graphs with divers types at :
 
-![front](https://plotly.com/python/) 
+[front](https://plotly.com/python/) 
 ![front](assets/front_test.png) 
