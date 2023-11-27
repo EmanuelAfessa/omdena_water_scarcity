@@ -1,0 +1,9 @@
+# pip install requirements
+numpy
+pandas
+dash 
+dash_bootstrap_components
+scikit-learn
+keras
+plotly
+
