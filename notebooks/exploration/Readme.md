@@ -5,7 +5,7 @@
 
 Recommend to work with Plotly python graphing library. 
 * Plotly offers great diversity for EDA :
-![plot_graph](assets/plotly_charts.png) 
+![plot_graph](/omdena_water_scarcity/assets/plotly_charts.png)
 
 * Extensive documentation and tutorials 
  :[plotly graphing library](https://plotly.com/python/) 
