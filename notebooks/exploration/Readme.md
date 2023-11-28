@@ -12,7 +12,7 @@ Recommend to work with Plotly python graphing library.
 
 * Can be directly  integrated with python web app libraries like Dash 
 For examlple see what was done with simple web app with available data 
-![plot_graph](assets/plotly_line_rain.png) 
+![plot_graph](https://github.com/EmanuelAfessa/omdena_water_scarcity/blob/data_exploration/assets/front_test.png) 
 
 
 ## How to implement EDA tasks in our common EDA github repository  
@@ -22,9 +22,12 @@ For examlple see what was done with simple web app with available data
 * step 3 : work on data_exploration branch and when finished push your work to main branch 
 -> Duplicate the template and rename it EDA_<yourfirstname>_<yourlastname>.ipynb
 -> If possible For each graph write the code and in mardown your conclusion the graph like so :
-![plot_graph_and deduction](assets/graph_deduction.png) 
+![plot_graph_and deduction](https://github.com/EmanuelAfessa/omdena_water_scarcity/blob/data_exploration/assets/graph_deduction.png) 
 * step 4 : your work will be merged and contribution visible on main
 
-
+## Data links 
+ rainfall_dataset_path : https://github.com/EmanuelAfessa/omdena_water_scarcity/blob/data_exploration/datafiles/datamarts/query002_rainfall.csv
+ full_raw_dataset : https://github.com/EmanuelAfessa/omdena_water_scarcity/blob/data_exploration/datafiles/datamarts/query001_all_tables.csv
+ 
 
 
