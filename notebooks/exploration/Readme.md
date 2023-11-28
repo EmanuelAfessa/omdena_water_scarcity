@@ -4,8 +4,8 @@
 ## Plotly library 
 
 Recommend to work with Plotly python graphing library. 
-* Plotly offers great diversity for EDA :
-![plot_graph](/omdena_water_scarcity/assets/plotly_charts.png)
+* Plotly offers great diversity for EDA : 
+![plot_graph](https://github.com/EmanuelAfessa/omdena_water_scarcity/blob/data_exploration/assets/plotly_charts.png)  
 
 * Extensive documentation and tutorials 
  :[plotly graphing library](https://plotly.com/python/) 
