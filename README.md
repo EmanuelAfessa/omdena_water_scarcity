@@ -12,7 +12,7 @@ This an idea of a central database (see data folders in this repo).
 
 Plotly graphs with divers types at :[plotly graphing library](https://plotly.com/python/) 
 
-![plot_graph](assets/temp_precip.png.png) 
+![plot_graph](assets/temp_precip.png) 
 
 ## Machine Learning 
 
