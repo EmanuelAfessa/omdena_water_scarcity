@@ -1,0 +1,216 @@
+Country, Variable, Unit, Symbol, "2000", "2001", "2002", "2003", "2004", "2005", "2006", "2007", "2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020"
+Algeria, % of agricultural GVA produced by irrigated agriculture, %, E, 11.27, 11.49, 12.77, 13.92, 15.03, 16.11, 17.16, 18.9, 20.08, 21.13, 22.16, 23.18, 24.19, 25.15, 26.1, 27.04, 27.97, 27.97, 27.97, 27.97, 27.97
+Algeria, % of agricultural water managed area equipped for irrigation, %, E, , 100, , , , , , , 100, , , , 100, , , 100, 100, 100, , , 
+Algeria, % of agricultural water managed area equipped for irrigation, %, I, 100, , 100, 100, 100, 100, 100, 100, , 100, 100, 100, , 100, 100, , , , 100, 100, 100
+Algeria, % of area equipped for full control irrigation actually irrigated, %, E, , 88.29, 88.44, 88.55, 88.65, 88.74, 88.81, 88.87, 88.92, 88.04, 87.27, 86.59, 85.99, 85.38, 84.78, 84.19, 80.32, 77.13, 77.13, 77.13, 77.13
+Algeria, % of area equipped for irrigation by direct use of  treated municipal wastewater, %, E, , , , , , , 0.05, 0.06, 0.07, 0.08, 0.09, 0.09, 0.1, 0.1, 0.1, 0.1, 0.09, 0.09, 0.09, 0.09, 0.09
+Algeria, % of area equipped for irrigation by groundwater , %, E, 60.07, 61.8, 63.36, 64.67, 65.78, 66.74, 67.57, 68.29, 68.93, 68.78, 68.65, 68.53, 68.43, 67.97, 67.51, 67.06, 64.1, 61.66, 61.66, 61.66, 61.66
+Algeria, % of area equipped for irrigation by mixed surface water and groundwater, %, E, , 2.11, 1.95, 1.82, 1.71, 1.61, 1.53, 1.46, 1.39, 1.32, 1.26, 1.2, 1.15, 1.15, 1.14, 1.13, 1.08, 1.04, 1.04, 1.04, 1.04
+Algeria, % of area equipped for irrigation by surface water, %, E, 34.55, 36.19, 35.37, 34.68, 34.09, 33.59, 33.16, 32.77, 32.44, 31.81, 31.25, 30.76, 30.32, 30.11, 29.91, 29.71, 28.4, 27.32, 27.32, 27.32, 27.32
+Algeria, % of area equipped for irrigation drained, %, E, 10.75, 10.72, 9.76, 8.96, 8.27, 7.69, 7.18, 6.74, 6.34, 5.93, 5.57, 5.25, 4.96, 4.93, 4.9, 4.87, 4.65, 4.47, 4.47, 4.47, 4.47
+Algeria, % of irrigation potential equipped for irrigation, %, E, , 43.8, , , , , , , 74.05, 79.19, 84.33, 89.47, 94.61, 95.25, 95.89, 96.54, 101, 105, 105, 105, 105
+Algeria, % of irrigation potential equipped for irrigation, %, I, 43.68, , 48.12, 52.44, 56.76, 61.09, 65.41, 69.73, , , , , , , , , , , , , 
+Algeria, % of the area equipped for irrigation actually irrigated, %, E, 78.12, 79.6, 80.76, 81.73, 82.54, 83.25, 83.86, 84.39, 84.86, 85.38, 85.83, 86.23, 86.59, 86.01, 85.43, 84.86, 81.11, 78.02, 78.02, 78.02, 78.02
+Algeria, % of the cultivated area equipped for irrigation, %, E, 6.93, 6.98, 7.62, 8.27, 8.9, 9.5, 10.15, 10.8, 11.46, 12.26, 13.03, 13.81, 14.59, 14.68, 14.77, 14.83, 15.6, 16.09, 16.03, 16.03, 16.03
+Algeria, % of total country area cultivated, %, E, 3.44, 3.43, 3.45, 3.46, 3.48, 3.51, 3.52, 3.52, 3.53, 3.53, 3.53, 3.54, 3.54, 3.54, 3.54, 3.55, 3.53, 3.56, 3.58, 3.58, 3.58
+Algeria, % of total cultivated area drained, %, E, , 0.75, 0.74, 0.74, 0.74, 0.73, 0.73, 0.73, 0.73, 0.73, 0.73, 0.73, 0.72, 0.72, 0.72, 0.72, 0.73, 0.72, 0.72, 0.72, 0.72
+Algeria, % of total cultivated area drained, %, I, 0.75, , , , , , , , , , , , , , , , , , , , 
+Algeria, Agricultural water withdrawal as % of total renewable water resources, %, E, , 30.02, , , , , , , , , , , 42.77, , , 53.24, 54.86, 57.18, , , 
+Algeria, Agricultural water withdrawal as % of total renewable water resources, %, I, 29.39, , 31.18, 32.34, 33.49, 34.65, 35.81, 36.97, 38.13, 39.29, 40.45, 41.61, , 46.26, 49.75, , , , 57.18, 57.18, 57.18
+Algeria, Agriculture, value added (% GDP), %, X, 8.5, 9.79, 9.31, 9.81, 9.44, 7.69, 7.54, 7.57, 6.59, 9.34, 8.47, 8.11, 8.77, 9.85, 10.29, 11.58, 12.22, 11.76, 11.84, 12.38, 14.05
+Algeria, Agriculture, value added to GDP, current US$, X, 4647015416, 5392216075, 5290017205, 6657818547, 8055792109, 7937297023, 8827458433, 10218617411, 11263264104, 12820127465, 13648522725, 16222244032, 18335919885, 20663212742, 21993348927, 19218248623, 19556329745, 19996432166, 20769268804, 21189597824, 20756163588
+Algeria, Arable land area, 1000 ha, X, 7662, 7583, 7547, 7503.7, 7493, 7511, 7470, 7469, 7489, 7493, 7502, 7502, 7506.5, 7496.2, 7469.4, 7462.1, 7404.2, 7470.81, 7505.02, 7505.02, 7505.02
+Algeria, Area equipped for full control irrigation: actually irrigated, 1000 ha, , , , , , , , , , , , , , 1012, , , , , , , , 
+Algeria, Area equipped for full control irrigation: actually irrigated, 1000 ha, E, , 453.3, , , , , , , , , , , , , , , , , , , 
+Algeria, Area equipped for full control irrigation: actually irrigated, 1000 ha, I, , , 504.09, 554.88, 605.67, 656.46, 707.25, 758.05, 808.84, 859.63, 910.42, 961.21, , 1012, 1012, 1012, 1012, 1012, 1012, 1012, 1012
+Algeria, Area equipped for full control irrigation: localized irrigation, 1000 ha, , , , , , , , , , , , , , , , , 255, , 307, , , 
+Algeria, Area equipped for full control irrigation: localized irrigation, 1000 ha, E, , , , , , , , , , , , , 220, , , , , , , , 
+Algeria, Area equipped for full control irrigation: localized irrigation, 1000 ha, I, , , , , , , , , , , , , , 231.67, 243.33, , 267.3, , 307, 307, 307
+Algeria, Area equipped for full control irrigation: sprinkler irrigation, 1000 ha, , , , , , , , , , , , , , , , , 362, , 409, , , 
+Algeria, Area equipped for full control irrigation: sprinkler irrigation, 1000 ha, E, , , , , , , , , , , , , 270, , , , , , , , 
+Algeria, Area equipped for full control irrigation: sprinkler irrigation, 1000 ha, I, 132, 143.5, 155, 166.5, 178, 189.5, 201, 212.5, 224, 235.5, 247, 258.5, , 300.67, 331.33, , 379.47, , 409, 409, 409
+Algeria, Area equipped for full control irrigation: surface irrigation, 1000 ha, , , , , , , , , , , , , , , , , 585, , 596, , , 
+Algeria, Area equipped for full control irrigation: surface irrigation, 1000 ha, E, , , , , , , , , , , , , 686.9, , , , , , , , 
+Algeria, Area equipped for full control irrigation: surface irrigation, 1000 ha, I, , , , , , , , , , , , , , 652.93, 618.97, , 613.23, , 596, 596, 596
+Algeria, Area equipped for full control irrigation: total, 1000 ha, , , 513.4, , , , , , , , , , , , , , , 1260, , , , 
+Algeria, Area equipped for full control irrigation: total, 1000 ha, E, , , , , , , , , 909.6, , , , 1176.9, , , 1202, , 1312, , , 
+Algeria, Area equipped for full control irrigation: total, 1000 ha, I, 505.86, , 570, 626.6, 683.2, 739.8, 796.4, 853, , 976.42, 1043.25, 1110.08, , 1185.27, 1193.63, , , , 1312, 1312, 1312
+Algeria, Area equipped for irrigation by direct use of treated municipal wastewater, 1000 ha, , , , , , , , 0.41, , , , , , 1.2, , , , , , , , 
+Algeria, Area equipped for irrigation by direct use of treated municipal wastewater, 1000 ha, I, , , , , , , , 0.54, 0.67, 0.81, 0.94, 1.07, , 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2
+Algeria, Area equipped for irrigation by groundwater, 1000 ha, , , 351.9, , , , , , , , , , , 841.6, , , , , , , , 
+Algeria, Area equipped for irrigation by groundwater, 1000 ha, I, 341.16, , 396.42, 440.94, 485.45, 529.97, 574.49, 619.01, 663.53, 708.05, 752.56, 797.08, , 841.6, 841.6, 841.6, 841.6, 841.6, 841.6, 841.6, 841.6
+Algeria, Area equipped for irrigation by mixed surface water and groundwater, 1000 ha, , , 12, , , , , , , , , , , 14.2, , , , , , , , 
+Algeria, Area equipped for irrigation by mixed surface water and groundwater, 1000 ha, I, , , 12.2, 12.4, 12.6, 12.8, 13, 13.2, 13.4, 13.6, 13.8, 14, , 14.2, 14.2, 14.2, 14.2, 14.2, 14.2, 14.2, 14.2
+Algeria, Area equipped for irrigation by surface water, 1000 ha, , , 206.1, , , , , , , , , , , 372.9, , , , , , , , 
+Algeria, Area equipped for irrigation by surface water, 1000 ha, I, 196.22, , 221.26, 236.43, 251.59, 266.75, 281.92, 297.08, 312.25, 327.41, 342.57, 357.74, , 372.9, 372.9, 372.9, 372.9, 372.9, 372.9, 372.9, 372.9
+Algeria, Area equipped for irrigation drained, 1000 ha, I, 61.06, 61.06, 61.06, 61.06, 61.06, 61.06, 61.06, 61.06, 61.06, 61.06, 61.06, 61.06, 61.06, 61.06, 61.06, 61.06, 61.06, 61.06, 61.06, 61.06, 61.06
+Algeria, Area equipped for irrigation: actually irrigated, 1000 ha, , , 453.3, , , , , , , , , , , 1065, , , , , , , , 
+Algeria, Area equipped for irrigation: actually irrigated, 1000 ha, E, , , , , , , , , 816.9, , , , , , , , , , , , 
+Algeria, Area equipped for irrigation: actually irrigated, 1000 ha, I, 443.63, , 505.24, 557.19, 609.13, 661.07, 713.01, 764.96, , 878.92, 940.95, 1002.98, , 1065, 1065, 1065, 1065, 1065, 1065, 1065, 1065
+Algeria, Area equipped for irrigation: spate irrigation, 1000 ha, , , 56.05, , , , , , , 53, , , , , , , , , , , , 
+Algeria, Area equipped for irrigation: spate irrigation, 1000 ha, I, 62.04, , 55.61, 55.18, 54.74, 54.31, 53.87, 53.44, , 53, 53, 53, 53, 53, 53, 53, 53, 53, 53, 53, 53
+Algeria, Area equipped for irrigation: total, 1000 ha, E, , 569.45, , , , , , , 962.6, 1029.42, 1096.25, 1163.08, 1229.9, 1238.27, 1246.63, 1255, 1313, 1365, 1365, 1365, 1365
+Algeria, Area equipped for irrigation: total, 1000 ha, I, 567.9, , 625.61, 681.78, 737.94, 794.11, 850.27, 906.44, , , , , , , , , , , , , 
+Algeria, Cultivated area (arable land + permanent crops), 1000 ha, X, 8192, 8163, 8206, 8244.7, 8296, 8363, 8378, 8390, 8400, 8399, 8411, 8421, 8430.5, 8435.2, 8439.2, 8462.4, 8417.6, 8483.43, 8517.02, 8517.02, 8517.02
+Algeria, Dam capacity per capita, m3/inhab, E, 161.27, 172.45, 171.28, 205.99, 211.4, 217.69, 233.53, 229.94, 226.21, 229.08, 227.34, 226.51, 222.13, 217.73, 213.35, 209.03, 204.78, 208.25, 204.11, 200.2, 196.56
+Algeria, Dependency ratio, %, E, 3.6, 3.6, 3.6, 3.6, 3.6, 3.6, 3.6, 3.6, 3.6, 3.6, 3.6, 3.6, 3.6, 3.6, 3.6, 3.6, 3.6, 3.6, 3.6, , 
+Algeria, Dependency ratio, %, I, , , , , , , , , , , , , , , , , , , , 3.6, 3.6
+Algeria, Exploitable: irregular renewable surface water, 10^9 m3/year, , 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, , 
+Algeria, Exploitable: irregular renewable surface water, 10^9 m3/year, I, , , , , , , , , , , , , , , , , , , , 5, 5
+Algeria, Exploitable: regular renewable groundwater, 10^9 m3/year, , 1.9, 1.9, 1.9, 1.9, 1.9, 1.9, 1.9, 1.9, 1.9, 1.9, 1.9, 1.9, 1.9, 1.9, 1.9, 1.9, 1.9, 1.9, 1.9, , 
+Algeria, Exploitable: regular renewable groundwater, 10^9 m3/year, I, , , , , , , , , , , , , , , , , , , , 1.9, 1.9
+Algeria, Exploitable: regular renewable surface water, 10^9 m3/year, , 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, , 
+Algeria, Exploitable: regular renewable surface water, 10^9 m3/year, I, , , , , , , , , , , , , , , , , , , , 1, 1
+Algeria, Exploitable: total renewable surface water, 10^9 m3/year, E, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, , 
+Algeria, Exploitable: total renewable surface water, 10^9 m3/year, I, , , , , , , , , , , , , , , , , , , , 6, 6
+Algeria, Flood occurrence (WRI), , I, , , , , , , , , , , , , , , 2.8, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8
+Algeria, Flood occurrence (WRI), , X, , , , , , , , , , , , , , 2.8, , , , , , , 
+Algeria, GDP Deflator (2015), , X, 56.6, 55.35, 54.09, 60.27, 72.65, 82.97, 92.52, 103.2, 127.67, 100.83, 114.35, 137.88, 139.38, 136.03, 133.58, 100, 93.43, 98.03, 99.9, 96.7, 87.74
+Algeria, GDP per capita, current US$/inhab, X, 1761.05, 1750.53, 1783.68, 2103.38, 2610.18, 3113.09, 3478.71, 3950.51, 4923.63, 3883.27, 4480.79, 5455.84, 5592.22, 5499.59, 5493.05, 4177.88, 3946.45, 4109.7, 4153.96, 3975.52, 3367.96
+Algeria, Gender Inequality Index (GII) [equality = 0; inequality = 1), , I, , 0.61, 0.59, 0.58, 0.57, , 0.54, 0.53, 0.52, 0.51, , 0.48, 0.45, , , 0.41, 0.41, 0.41, 0.41, 0.41, 0.41
+Algeria, Gender Inequality Index (GII) [equality = 0; inequality = 1), , X, 0.62, , , , , 0.55, , , , , 0.51, , , 0.42, 0.41, , , , , , 
+Algeria, Gross Domestic Product (GDP), current US$, X, 54666896857, 55056733057, 56819210891, 67863851626, 85332517817, 103198216067, 117027277939, 134977088396, 171000692135, 137211008421, 161207306305, 200019103013, 209059083118, 209755003251, 213809979480, 165979118791, 160034211700, 170096984537, 175415180411, 171158234285, 147688693830
+Algeria, Groundwater produced internally, 10^9 m3/year, , 1.49, 1.49, 1.49, 1.49, 1.49, 1.49, 1.49, 1.49, 1.49, 1.49, 1.49, 1.49, 1.49, 1.49, 1.49, 1.49, 1.49, 1.49, 1.49, , 
+Algeria, Groundwater produced internally, 10^9 m3/year, I, , , , , , , , , , , , , , , , , , , , 1.49, 1.49
+Algeria, Groundwater: accounted inflow, 10^9 m3/year, , 0.03, 0.03, 0.03, 0.03, 0.03, 0.03, 0.03, 0.03, 0.03, 0.03, 0.03, 0.03, 0.03, 0.03, 0.03, 0.03, 0.03, 0.03, 0.03, , 
+Algeria, Groundwater: accounted inflow, 10^9 m3/year, I, , , , , , , , , , , , , , , , , , , , 0.03, 0.03
+Algeria, Groundwater: accounted outflow to other countries, 10^9 m3/year, E, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, , 
+Algeria, Groundwater: accounted outflow to other countries, 10^9 m3/year, I, , , , , , , , , , , , , , , , , , , , 0.1, 0.1
+Algeria, Groundwater: entering the country (total), 10^9 m3/year, , 0.03, 0.03, 0.03, 0.03, 0.03, 0.03, 0.03, 0.03, 0.03, 0.03, 0.03, 0.03, 0.03, 0.03, 0.03, 0.03, 0.03, 0.03, 0.03, , 
+Algeria, Groundwater: entering the country (total), 10^9 m3/year, I, , , , , , , , , , , , , , , , , , , , 0.03, 0.03
+Algeria, Groundwater: leaving the country to other countries (total), 10^9 m3/year, , 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, , 
+Algeria, Groundwater: leaving the country to other countries (total), 10^9 m3/year, I, , , , , , , , , , , , , , , , , , , , 0.1, 0.1
+Algeria, Harvested irrigated permanent crop area: Citrus, 1000 ha, , , , , , , , , , 41.88, , , , , , , , , , , , 
+Algeria, Harvested irrigated permanent crop area: Citrus, 1000 ha, E, , 46, , , , , , , , , , , , , , , , , , , 
+Algeria, Harvested irrigated permanent crop area: Citrus, 1000 ha, I, , , 45.41, 44.82, 44.23, 43.65, 43.06, 42.47, , 41.88, 41.88, 41.88, 41.88, 41.88, 41.88, 41.88, 41.88, 41.88, 41.88, 41.88, 41.88
+Algeria, Harvested irrigated permanent crop area: Grapes, 1000 ha, , , , , , , , , , 9.04, , , , , , , , , , , , 
+Algeria, Harvested irrigated permanent crop area: Grapes, 1000 ha, I, , , , , , , , , , 9.04, 9.04, 9.04, 9.04, 9.04, 9.04, 9.04, 9.04, 9.04, 9.04, 9.04, 9.04
+Algeria, Harvested irrigated permanent crop area: Grass and Fodder, 1000 ha, , , , , , , , , , 77.8, , , , , , , , , , , , 
+Algeria, Harvested irrigated permanent crop area: Grass and Fodder, 1000 ha, E, , 9, , , , , , , , , , , , , , , , , , , 
+Algeria, Harvested irrigated permanent crop area: Grass and Fodder, 1000 ha, I, 10.07, , 18.83, 28.66, 38.49, 48.31, 58.14, 67.97, , 77.8, 77.8, 77.8, 77.8, 77.8, 77.8, 77.8, 77.8, 77.8, 77.8, 77.8, 77.8
+Algeria, Harvested irrigated permanent crop area: Oil palm, 1000 ha, , , , , , , , , , 140.2, , , , , , , , , , , , 
+Algeria, Harvested irrigated permanent crop area: Oil palm, 1000 ha, I, , , , , , , , , , 140.2, 140.2, 140.2, 140.2, 140.2, 140.2, 140.2, 140.2, 140.2, 140.2, 140.2, 140.2
+Algeria, Harvested irrigated permanent crop area: Olives, 1000 ha, , , , , , , , , , 48.32, , , , , , , , , , , , 
+Algeria, Harvested irrigated permanent crop area: Olives, 1000 ha, I, , , , , , , , , , 48.32, 48.32, 48.32, 48.32, 48.32, 48.32, 48.32, 48.32, 48.32, 48.32, 48.32, 48.32
+Algeria, Harvested irrigated permanent crop area: Other crops, 1000 ha, I, 145, 145, 145, 145, 145, 145, 145, 145, 145, 145, 145, 145, 145, 145, 145, 145, 145, 145, 145, 145, 145
+Algeria, Harvested irrigated permanent crop area: Other fruits, 1000 ha, , , , , , , , , , 160.4, , , , , , , , , , , , 
+Algeria, Harvested irrigated permanent crop area: Other fruits, 1000 ha, E, , 111, , , , , , , , , , , , , , , , , , , 
+Algeria, Harvested irrigated permanent crop area: Other fruits, 1000 ha, I, , , 118.06, 125.11, 132.17, 139.23, 146.29, 153.34, , 160.4, 160.4, 160.4, 160.4, 160.4, 160.4, 160.4, 160.4, 160.4, 160.4, 160.4, 160.4
+Algeria, Harvested irrigated permanent crop area: Total, 1000 ha, , , , , , , , , , 477.7, , , , , , , , , , , , 
+Algeria, Harvested irrigated permanent crop area: Total, 1000 ha, E, , 181, , , , , , , , , , , , , , , , , , , 
+Algeria, Harvested irrigated permanent crop area: Total, 1000 ha, I, , , 223.39, 265.77, 308.16, 350.54, 392.93, 435.31, , 477.7, 477.7, 477.7, 477.7, 477.7, 477.7, 477.7, 477.7, 477.7, 477.7, 477.7, 477.7
+Algeria, Harvested irrigated temporary crop area: Other cereals, 1000 ha, , , , , , , , , , 82.54, , , , , , , , , , , , 
+Algeria, Harvested irrigated temporary crop area: Other cereals, 1000 ha, I, 55.43, 58.82, 62.21, 65.6, 68.99, 72.38, 75.76, 79.15, , 82.54, 82.54, 82.54, 82.54, 82.54, 82.54, 82.54, 82.54, 82.54, 82.54, 82.54, 82.54
+Algeria, Harvested irrigated temporary crop area: Other crops, 1000 ha, , , , , , , , , , 24.76, , , , , , , , , , , , 
+Algeria, Harvested irrigated temporary crop area: Other crops, 1000 ha, E, , 15, , , , , , , , , , , , , , , , , , , 
+Algeria, Harvested irrigated temporary crop area: Other crops, 1000 ha, I, , , 16.39, 17.79, 19.18, 20.58, 21.97, 23.37, , 24.76, 24.76, 24.76, 24.76, 24.76, 24.76, 24.76, 24.76, 24.76, 24.76, 24.76, 24.76
+Algeria, Harvested irrigated temporary crop area: Potatoes, 1000 ha, E, , 79, , , , , , , , , , , , , , , , , , , 
+Algeria, Harvested irrigated temporary crop area: Potatoes, 1000 ha, I, , , 79, 79, 79, 79, 79, 79, 79, 79, 79, 79, 79, 79, 79, 79, 79, 79, 79, 79, 79
+Algeria, Harvested irrigated temporary crop area: Tobacco, 1000 ha, E, , 5, , , , , , , , , , , , , , , , , , , 
+Algeria, Harvested irrigated temporary crop area: Tobacco, 1000 ha, I, , , 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5
+Algeria, Harvested irrigated temporary crop area: Total, 1000 ha, , , , , , , , , , 380.5, , , , , , , , , , , , 
+Algeria, Harvested irrigated temporary crop area: Total, 1000 ha, E, , 272.3, , , , , , , , , , , , , , , , , , , 
+Algeria, Harvested irrigated temporary crop area: Total, 1000 ha, I, , , 287.76, 303.21, 318.67, 334.13, 349.59, 365.04, , 380.5, 380.5, 380.5, 380.5, 380.5, 380.5, 380.5, 380.5, 380.5, 380.5, 380.5, 380.5
+Algeria, Harvested irrigated temporary crop area: Vegetables, 1000 ha, , , , , , , , , , 273.2, , , , , , , , , , , , 
+Algeria, Harvested irrigated temporary crop area: Vegetables, 1000 ha, E, , 99, , , , , , , , , , , , , , , , , , , 
+Algeria, Harvested irrigated temporary crop area: Vegetables, 1000 ha, I, 98.73, , 123.89, 148.77, 173.66, 198.54, 223.43, 248.31, , 273.2, 273.2, 273.2, 273.2, 273.2, 273.2, 273.2, 273.2, 273.2, 273.2, 273.2, 273.2
+Algeria, Harvested irrigated temporary crop area: Wheat, 1000 ha, E, , 89.3, , , , , , , , , , , , , , , , , , , 
+Algeria, Harvested irrigated temporary crop area: Wheat, 1000 ha, I, , , 89.3, 89.3, 89.3, 89.3, 89.3, 89.3, 89.3, 89.3, 89.3, 89.3, 89.3, 89.3, 89.3, 89.3, 89.3, 89.3, 89.3, 89.3, 89.3
+Algeria, Human Development Index (HDI) [highest = 1], , I, , , , , , , , , , , , , , , , , , , , 0.76, 0.76
+Algeria, Human Development Index (HDI) [highest = 1], , X, 0.65, 0.66, 0.67, 0.68, 0.69, 0.69, 0.7, 0.71, 0.71, 0.72, 0.73, 0.74, 0.74, 0.75, 0.75, 0.75, 0.76, 0.76, 0.76, , 
+Algeria, Industry, value added to GDP, current US$, X, 29215848416, 26785782628, 27142553183, 33693400638, 43688149096, 58146769548, 67773111604, 76581236341, 98790830679, 64467031412, 80076456966, 97745688905, 98464669735, 91158249475, 88694034710, 57763994488, 53902989743, 60780815938, 66870271466, 62164532031, 45599037047
+Algeria, Interannual variability (WRI), , I, , , , , , , , , , , , , , , 2.3, 2.3, 2.3, 2.3, 2.3, 2.3, 2.3
+Algeria, Interannual variability (WRI), , X, , , , , , , , , , , , , , 2.3, , , , , , , 
+Algeria, Irrigated cropping intensity, %, E, , 100, 101.4, 102.54, 103.49, 104.3, 104.99, 105.58, 106.1, 99.83, 94.26, 89.28, 84.8, 84.8, 84.8, 84.8, 84.8, 84.8, 84.8, 84.8, 84.8
+Algeria, Irrigation potential, 1000 ha, , 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, , , , , 
+Algeria, Irrigation potential, 1000 ha, I, , , , , , , , , , , , , , , , , 1300, 1300, 1300, 1300, 1300
+Algeria, Long-term average annual precipitation in depth, mm/year, , 89, , , , , , , , , , , , , , , , , , , , 
+Algeria, Long-term average annual precipitation in depth, mm/year, I, , , , , , , , , , , , , , , , , , , , 89, 89
+Algeria, Long-term average annual precipitation in depth, mm/year, X, , 89, 89, 89, 89, 89, 89, 89, 89, 89, 89, 89, 89, 89, 89, 89, 89, 89, 89, , 
+Algeria, Long-term average annual precipitation in volume, 10^9 m3/year, E, 211.97, 211.97, 211.97, 211.97, 211.97, 211.97, 211.97, 211.97, 211.97, 211.97, 211.97, 211.97, 211.97, 211.97, 211.97, 211.97, 211.97, 211.97, 211.97, , 
+Algeria, Long-term average annual precipitation in volume, 10^9 m3/year, I, , , , , , , , , , , , , , , , , , , , 211.97, 211.97
+Algeria, MDG 7.5. Freshwater withdrawal as % of total renewable water resources, %, E, 48.28, 49.77, 51.8, 53.31, 54.83, 56.34, 57.86, 59.37, 60.88, 62.4, 63.91, 65.43, 66.86, , , 76.75, 79.11, 84.01, , , 
+Algeria, MDG 7.5. Freshwater withdrawal as % of total renewable water resources, %, I, , , , , , , , , , , , , , 70.15, 73.45, , , , 84.01, 84.01, 84.01
+Algeria, National Rainfall Index (NRI), mm/year, I, 241.5, 241.5, 241.5, 241.5, 241.5, 241.5, 241.5, 241.5, 241.5, 241.5, 241.5, 241.5, 241.5, 241.5, 241.5, 241.5, 241.5, 241.5, 241.5, 241.5, 241.5
+Algeria, Non-irrigated cultivated area drained, 1000 ha, I, , , , , , , , , , , , , , , , , , , , , 
+Algeria, Number of people undernourished (3-year average), 1000 inhab, I, , , , , , , , , , , , , , , , , , , , , 1200
+Algeria, Number of people undernourished (3-year average), 1000 inhab, X, 2800, 3300, 2500, 2300, 2300, 2300, 2200, 2200, 2000, 1900, 1800, 1600, 1400, 1200, 1200, 1100, 1100, 1100, 1100, 1200, 
+Algeria, Overlap between surface water and groundwater, 10^9 m3/year, , , , , , , , , , , , , , , , , , , , , , 
+Algeria, Overlap between surface water and groundwater, 10^9 m3/year, I, , , , , , , , , , , , , , , , , , , , , 
+Algeria, Overlap: between surface water and groundwater, 10^9 m3/year, E, , , , , , , , , , , , , , , , , , , , , 
+Algeria, Overlap: between surface water and groundwater, 10^9 m3/year, I, , , , , , , , , , , , , , , , , , , , , 
+Algeria, Permanent crops area, 1000 ha, X, 530, 580, 659, 741, 803, 852, 908, 921, 911, 906, 909, 919, 924, 939, 969.8, 1000.3, 1013.4, 1012.62, 1012, 1012, 1012
+Algeria, Population density, inhab/km2, E, 13.03, 13.21, 13.37, 13.55, 13.73, 13.92, 14.12, 14.35, 14.58, 14.84, 15.11, 15.39, 15.7, 16.01, 16.34, 16.68, 17.03, 17.38, 17.73, 18.08, 18.41
+Algeria, Prevalence of undernourishment (3-year average), %, I, , , , , , , , , , , , , , , , , , , , , 2.8
+Algeria, Prevalence of undernourishment (3-year average), %, X, 9.1, 10.7, 8, 7.3, 7, 7, 6.7, 6.4, 5.9, 5.6, 5.1, 4.3, 3.8, 3.2, 3, 2.9, 2.8, 2.8, 2.7, 2.8, 
+Algeria, Ratio between rainfed and irrigated yields, , , , , , , , , , , , , , , , , 2.21, , , , , , 
+Algeria, Ratio between rainfed and irrigated yields, , E, , , 2.21, , , , 2.12, 2.21, , , , , 2.21, , , , , 2.21, , , 
+Algeria, Ratio between rainfed and irrigated yields, , I, 2.21, 2.21, , 2.19, 2.17, 2.14, , , 2.21, 2.21, 2.21, 2.21, , 2.21, , 2.21, 2.21, , 2.21, 2.21, 2.21
+Algeria, Rural population, 1000 inhab, X, 12498.85, 12411.94, 12317.85, 12221.44, 12127.44, 12040.49, 11959.9, 11885.69, 11818.95, 11765.34, 11723.94, 11695.48, 11677.5, 11664.03, 11647.65, 11623.28, 11589.54, 11547.53, 11498.04, 11442.59, 11382.34
+Algeria, Rural population with access to safe drinking-water (JMP), %, I, , , , , , , , , , , , , , , , , 81.8, 81.8, 81.8, 81.8, 81.8
+Algeria, Rural population with access to safe drinking-water (JMP), %, X, 84, 83.9, 83.7, 83.6, 83.4, 83.3, 83.1, 83, 82.8, 82.7, 82.5, 82.4, 82.2, 82.1, 81.9, 81.8, , , , , 
+Algeria, SDG 6.4.1. Industrial Water Use Efficiency, US$/m3, E, 103.23, 98.18, 103.29, 116.78, 127.49, 150.85, 160.12, 164.76, 174.54, 146.56, 163.17, 167.95, 170.23, 211.18, 302.26, 473.48, 306.88, 324.62, 350.47, 336.59, 272.11
+Algeria, SDG 6.4.1. Irrigated Agriculture Water Use Efficiency, US$/m3, E, 0.27, 0.32, 0.34, 0.41, 0.43, 0.38, 0.39, 0.43, 0.4, 0.59, 0.56, 0.56, 0.64, 0.71, 0.74, 0.84, 0.91, 0.86, 0.87, 0.92, 0.99
+Algeria, SDG 6.4.1. Services Water Use Efficiency, US$/m3, E, 19.22, 20.41, 20.4, 19.61, 18.91, 17.57, 17.04, 18.03, 17.72, 21.04, 20.15, 20.54, 20.49, 21.76, 23.29, 26.47, 25.42, 23.47, 22.67, 23.28, 23.87
+Algeria, SDG 6.4.1. Water Use Efficiency, US$/m3, E, , , , , , , , , , , , , 16.11, 15.65, 15.64, 15.37, 15.01, 14.55, 14.75, 14.74, 13.81
+Algeria, SDG 6.4.1. Water Use Efficiency, US$/m3, I, 15.15, 14.91, 15.01, 15.49, 15.69, 16.45, 16.45, 16.67, 16.71, 15.98, 16.24, 16.29, , , , , , , , , 
+Algeria, SDG 6.4.2. Water Stress, %, E, 79.26, 81.71, 85.04, 87.52, 90.01, 92.49, 94.98, 97.46, 99.95, 102.44, 104.92, 107.41, 109.75, 115.16, 120.58, 125.99, 129.87, 137.92, 137.92, 137.92, 137.92
+Algeria, Seasonal variability (WRI), , I, , , , , , , , , , , , , , , 1.9, 1.9, 1.9, 1.9, 1.9, 1.9, 1.9
+Algeria, Seasonal variability (WRI), , X, , , , , , , , , , , , , , 1.9, , , , , , , 
+Algeria, Services, value added to GDP, current US$, X, 18723168999, 20662330348, 21382417041, 24172736019, 29598747361, 32971231215, 37368366209, 46108779383, 58539844990, 57180458190, 64593303681, 82455340987, 86258889254, 90190777425, 95609764795, 82065603169, 80517018286, 82820624114, 81514148088, 81047434490, 75386032777
+Algeria, Surface water produced internally, 10^9 m3/year, , 9.76, 9.76, 9.76, 9.76, 9.76, 9.76, 9.76, 9.76, 9.76, 9.76, 9.76, 9.76, 9.76, 9.76, 9.76, 9.76, 9.76, 9.76, 9.76, , 
+Algeria, Surface water produced internally, 10^9 m3/year, I, , , , , , , , , , , , , , , , , , , , 9.76, 9.76
+Algeria, Surface water: accounted flow of border rivers, 10^9 m3/year, , , , , , , , , , , , , , , , , , , , , , 
+Algeria, Surface water: accounted flow of border rivers, 10^9 m3/year, I, , , , , , , , , , , , , , , , , , , , , 
+Algeria, Surface water: accounted inflow, 10^9 m3/year, E, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, , 
+Algeria, Surface water: accounted inflow, 10^9 m3/year, I, , , , , , , , , , , , , , , , , , , , 0.39, 0.39
+Algeria, Surface water: entering the country (total), 10^9 m3/year, , 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, , 
+Algeria, Surface water: entering the country (total), 10^9 m3/year, I, , , , , , , , , , , , , , , , , , , , 0.39, 0.39
+Algeria, Surface water: inflow not submitted to treaties, 10^9 m3/year, , 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, , 
+Algeria, Surface water: inflow not submitted to treaties, 10^9 m3/year, I, , , , , , , , , , , , , , , , , , , , 0.39, 0.39
+Algeria, Surface water: inflow secured through treaties, 10^9 m3/year, , , , , , , , , , , , , , , , , , , , , , 
+Algeria, Surface water: inflow secured through treaties, 10^9 m3/year, I, , , , , , , , , , , , , , , , , , , , , 
+Algeria, Surface water: inflow submitted to treaties, 10^9 m3/year, , , , , , , , , , , , , , , , , , , , , , 
+Algeria, Surface water: inflow submitted to treaties, 10^9 m3/year, I, , , , , , , , , , , , , , , , , , , , , 
+Algeria, Surface water: leaving the country to other countries (total), 10^9 m3/year, , 0.32, 0.32, 0.32, 0.32, 0.32, 0.32, 0.32, 0.32, 0.32, 0.32, 0.32, 0.32, 0.32, 0.32, 0.32, 0.32, 0.32, 0.32, 0.32, , 
+Algeria, Surface water: leaving the country to other countries (total), 10^9 m3/year, I, , , , , , , , , , , , , , , , , , , , 0.32, 0.32
+Algeria, Surface water: outflow to other countries not submitted to treaties, 10^9 m3/year, E, 0.32, 0.32, 0.32, 0.32, 0.32, 0.32, 0.32, 0.32, 0.32, 0.32, 0.32, 0.32, 0.32, 0.32, 0.32, 0.32, 0.32, 0.32, 0.32, , 
+Algeria, Surface water: outflow to other countries not submitted to treaties, 10^9 m3/year, I, , , , , , , , , , , , , , , , , , , , 0.32, 0.32
+Algeria, Surface water: outflow to other countries secured through treaties, 10^9 m3/year, , , , , , , , , , , , , , , , , , , , , , 
+Algeria, Surface water: outflow to other countries secured through treaties, 10^9 m3/year, E, , , , , , , , , , , , , , , , , , , , , 
+Algeria, Surface water: outflow to other countries secured through treaties, 10^9 m3/year, I, , , , , , , , , , , , , , , , , , , , , 
+Algeria, Surface water: outflow to other countries submitted to treaties, 10^9 m3/year, E, , , , , , , , , , , , , , , , , , , , , 
+Algeria, Surface water: outflow to other countries submitted to treaties, 10^9 m3/year, I, , , , , , , , , , , , , , , , , , , , , 
+Algeria, Surface water: total external renewable, 10^9 m3/year, E, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, 0.39, , 
+Algeria, Surface water: total external renewable, 10^9 m3/year, I, , , , , , , , , , , , , , , , , , , , 0.39, 0.39
+Algeria, Surface water: total flow of border rivers, 10^9 m3/year, , , , , , , , , , , , , , , , , , , , , , 
+Algeria, Surface water: total flow of border rivers, 10^9 m3/year, I, , , , , , , , , , , , , , , , , , , , , 
+Algeria, Total agricultural water managed area, 1000 ha, E, , 569.45, , , , , , , 962.6, 1029.42, 1096.25, 1163.08, 1229.9, 1238.27, 1246.63, 1255, 1313, 1365, 1365, 1365, 1365
+Algeria, Total agricultural water managed area, 1000 ha, I, 567.9, , 625.61, 681.78, 737.94, 794.11, 850.27, 906.44, , , , , , , , , , , , , 
+Algeria, Total area of the country (excl. coastal water), 1000 ha, E, , , , , , , , , , , , , , , , , , 238174.1, 238174.1, 238174.1, 238174.1
+Algeria, Total area of the country (excl. coastal water), 1000 ha, X, 238174, 238174, 238174, 238174, 238174, 238174, 238174, 238174, 238174, 238174, 238174, 238174, 238174, 238174, 238174, 238174, 238174, , , , 
+Algeria, Total cultivated area drained, 1000 ha, I, 61.06, 61.06, 61.06, 61.06, 61.06, 61.06, 61.06, 61.06, 61.06, 61.06, 61.06, 61.06, 61.06, 61.06, 61.06, 61.06, 61.06, 61.06, 61.06, 61.06, 61.06
+Algeria, Total dam capacity, km3, E, 5.01, 5.42, 5.46, 6.65, 6.91, 7.22, 7.86, 7.86, 7.86, 8.09, 8.18, 8.3, 8.3, 8.3, 8.3, 8.3, 8.3, 8.62, 8.62, 8.62, 8.62
+Algeria, Total exploitable water resources, 10^9 m3/year, E, 7.9, 7.9, 7.9, 7.9, 7.9, 7.9, 7.9, 7.9, 7.9, 7.9, 7.9, 7.9, 7.9, 7.9, 7.9, 7.9, 7.9, 7.9, 7.9, , 
+Algeria, Total exploitable water resources, 10^9 m3/year, I, , , , , , , , , , , , , , , , , , , , 7.9, 7.9
+Algeria, Total harvested irrigated crop area (full control irrigation), 1000 ha, , , , , , , , , , 858.2, , , , , , , , , , , , 
+Algeria, Total harvested irrigated crop area (full control irrigation), 1000 ha, E, , 453.3, , , , , , , , , , , , , , , , , , , 
+Algeria, Total harvested irrigated crop area (full control irrigation), 1000 ha, I, , , 511.14, 568.99, 626.83, 684.67, 742.51, 800.36, , 858.2, 858.2, 858.2, 858.2, 858.2, 858.2, 858.2, 858.2, 858.2, 858.2, 858.2, 858.2
+Algeria, Total internal renewable water resources (IRWR), 10^9 m3/year, E, 11.25, 11.25, 11.25, 11.25, 11.25, 11.25, 11.25, 11.25, 11.25, 11.25, 11.25, 11.25, 11.25, 11.25, 11.25, 11.25, 11.25, 11.25, 11.25, , 
+Algeria, Total internal renewable water resources (IRWR), 10^9 m3/year, I, , , , , , , , , , , , , , , , , , , , 11.25, 11.25
+Algeria, Total internal renewable water resources per capita, m3/inhab/year, E, 362.31, 357.6, 353.07, 348.59, 344.03, 339.28, 334.32, 329.18, 323.84, 318.31, 312.61, 306.78, 300.85, 294.89, 288.95, 283.1, 277.35, 271.74, 266.34, 261.24, 256.48
+Algeria, Total population, 1000 inhab, X, 31042.24, 31451.51, 31855.11, 32264.16, 32692.16, 33149.72, 33641, 34166.97, 34730.61, 35333.88, 35977.46, 36661.44, 37383.89, 38140.13, 38923.69, 39728.03, 40551.39, 41389.19, 42228.41, 43053.05, 43851.04
+Algeria, Total population with access to safe drinking-water (JMP), %, I, , , , , , , , , , , , , , , , , 83.6, 83.6, 83.6, 83.6, 83.6
+Algeria, Total population with access to safe drinking-water (JMP), %, X, 89.5, 89.2, 88.8, 88.5, 88.1, 87.7, 87.4, 87, 86.6, 86.2, 85.7, 85.3, 84.9, 84.5, 84, 83.6, , , , , 
+Algeria, Total renewable groundwater, 10^9 m3/year, E, 1.52, 1.52, 1.52, 1.52, 1.52, 1.52, 1.52, 1.52, 1.52, 1.52, 1.52, 1.52, 1.52, 1.52, 1.52, 1.52, 1.52, 1.52, 1.52, , 
+Algeria, Total renewable groundwater, 10^9 m3/year, I, , , , , , , , , , , , , , , , , , , , 1.52, 1.52
+Algeria, Total renewable surface water, 10^9 m3/year, E, 10.15, 10.15, 10.15, 10.15, 10.15, 10.15, 10.15, 10.15, 10.15, 10.15, 10.15, 10.15, 10.15, 10.15, 10.15, 10.15, 10.15, 10.15, 10.15, , 
+Algeria, Total renewable surface water, 10^9 m3/year, I, , , , , , , , , , , , , , , , , , , , 10.15, 10.15
+Algeria, Total renewable water resources, 10^9 m3/year, E, 11.67, 11.67, 11.67, 11.67, 11.67, 11.67, 11.67, 11.67, 11.67, 11.67, 11.67, 11.67, 11.67, 11.67, 11.67, 11.67, 11.67, 11.67, 11.67, , 
+Algeria, Total renewable water resources, 10^9 m3/year, I, , , , , , , , , , , , , , , , , , , , 11.67, 11.67
+Algeria, Total renewable water resources per capita, m3/inhab/year, E, 375.84, 370.95, 366.25, 361.61, 356.87, 351.95, 346.81, 341.47, 335.93, 330.19, 324.29, 318.24, 312.09, 305.9, 299.74, 293.67, 287.71, 281.89, 276.28, 270.99, 266.06
+Algeria, Urban population, 1000 inhab, X, 18684.81, 19180.21, 19677.2, 20182.07, 20703.65, 21247.95, 21818.01, 22414.38, 23041.77, 23700.42, 24393.7, 25124.08, 25888.35, 26674.53, 27465.66, 28248.25, 29016.51, 29770.61, 30510.02, 31236.43, 31950.91
+Algeria, Urban population with access to safe drinking-water (JMP), %, I, , , , , , , , , , , , , , , , , 84.3, 84.3, 84.3, 84.3, 84.3
+Algeria, Urban population with access to safe drinking-water (JMP), %, X, 93.2, 92.6, 92, 91.5, 90.9, 90.3, 89.7, 89.1, 88.5, 87.9, 87.3, 86.7, 86.1, 85.5, 84.9, 84.3, , , , , 
+Algeria, Water resources: total external renewable, 10^9 m3/year, E, 0.42, 0.42, 0.42, 0.42, 0.42, 0.42, 0.42, 0.42, 0.42, 0.42, 0.42, 0.42, 0.42, 0.42, 0.42, 0.42, 0.42, 0.42, 0.42, , 
+Algeria, Water resources: total external renewable, 10^9 m3/year, I, , , , , , , , , , , , , , , , , , , , 0.42, 0.42
