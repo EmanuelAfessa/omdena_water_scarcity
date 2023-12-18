@@ -1,0 +1,53 @@
+Using https://developers.google.com/earth-engine/datasets/catalog/JRC_GSW1_4_GlobalSurfaceWater
+
+// Define the AOI: Bhopal region with a 20km buffer
+var aoi = ee.Geometry.Point([77.4126, 23.2599]).buffer(20000);
+
+// Load the JRC Global Surface Water dataset
+var gsw = ee.ImageCollection('JRC/GSW1_3/MonthlyHistory')
+              .filterBounds(aoi)
+              .filterDate('2000-01-01', '2020-12-31')
+              .select('water');
+
+// Create a time series chart
+var chart = ui.Chart.image.seriesByRegion({
+  imageCollection: gsw,
+  regions: aoi,
+  reducer: ee.Reducer.sum(),
+  scale: 30,
+  seriesProperty: 'system:index',
+  xProperty: 'system:time_start'
+}).setOptions({
+  title: 'Bhopal Region Surface Water Time Series (2000-2020)',
+  hAxis: {title: 'Date'},
+  vAxis: {title: 'Surface Water Pixel Count'},
+  lineWidth: 1,
+  pointSize: 3,
+  series: {0: {color: 'blue'}}
+});
+
+// Print the chart to the console
+print(chart);
+
+// Export the chart data to Google Drive
+var waterAreaByMonth = gsw.map(function(image) {
+  var sumWater = image.reduceRegion({
+    reducer: ee.Reducer.sum(),
+    geometry: aoi,
+    scale: 30
+  });
+  return ee.Feature(null, {
+    'month': ee.Date(image.get('system:time_start')).format('YYYY-MM'),
+    'sumWater': sumWater.get('water')
+  });
+});
+
+// Flatten the collection of Features into a FeatureCollection
+waterAreaByMonth = ee.FeatureCollection(waterAreaByMonth);
+
+// Export the FeatureCollection
+Export.table.toDrive({
+  collection: waterAreaByMonth,
+  description: 'Bhopal_Water_Area_by_Month',
+  fileFormat: 'CSV'
+});
