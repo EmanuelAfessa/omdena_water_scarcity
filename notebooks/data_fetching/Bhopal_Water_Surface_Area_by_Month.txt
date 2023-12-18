@@ -1,6 +1,7 @@
 Using https://developers.google.com/earth-engine/datasets/catalog/JRC_GSW1_4_GlobalSurfaceWater
 
-The surface water area (square meters) is the sum of all areas in the region of interest (AOI) as a circular buffer of 20 kilometers around a single central point in Bhopal (77.4126, 23.2599)
+The surface water area (square meters) is the sum of all areas in the region of interest (AOI) as a circular buffer of 
+20 kilometers around a single central point in Bhopal (77.4126, 23.2599)
 __________________________________________________________________________________________________________________________
 
 // Define the AOI: Bhopal region with a 20km buffer
